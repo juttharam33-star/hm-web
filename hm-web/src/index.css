@@ -7,10 +7,3 @@ html {
   background-color: #0D1311;
   color: #E6EDE9;
 }
-
-/* High-Impact Motion Keyframes */
-@keyframes cyberFloat {
-  0%, 100% {
-    transform: translateY(0px) rotate(0deg) scale(1);
-  }
-}
